@@ -1,21 +1,24 @@
+[submodule "bmkeg-as-parent"]
+	path = bmkeg-as-parent
+	url = https://github.com/amferraz/bmkeg-as-parent
 [submodule "lapdftextServer"]
 	path = lapdftextServer
-	url = https://github.com/BMKEG/lapdftextServer
+	url = https://github.com/amferraz/lapdftextServer
 [submodule "lapdftext"]
 	path = lapdftext
-	url = https://github.com/BMKEG/lapdftext
+	url = https://github.com/amferraz/lapdftext
 [submodule "bmkeg-parent"]
 	path = bmkeg-parent
-	url = https://github.com/BMKEG/bmkeg-parent
+	url = https://github.com/amferraz/bmkeg-parent
 [submodule "lapdftextClientApp"]
 	path = lapdftextClientApp
-	url = https://github.com/BMKEG/lapdftextClientApp
+	url = https://github.com/amferraz/lapdftextClientApp
 [submodule "lapdftextClientComponents"]
 	path = lapdftextClientComponents
-	url = https://github.com/BMKEG/lapdftextClientComponents
+	url = https://github.com/amferraz/lapdftextClientComponents
 [submodule "lapdftextVpdmf"]
 	path = lapdftextVpdmf
-	url = https://github.com/BMKEG/lapdftextVpdmf
+	url = https://github.com/amferraz/lapdftextVpdmf
 [submodule "lapdftext-rules"]
 	path = lapdftext-rules
-	url = https://github.com/BMKEG/lapdftext-rules
+	url = https://github.com/amferraz/lapdftext-rules
